@@ -1,21 +1,23 @@
 body{
-    background: black;
+    background: rgb(15, 15, 15);
     display: flex; 
     justify-content: center; 
-    padding: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 .sub{
-    color: rgb(247, 247, 247);
-    margin: auto; 
+    color: rgb(207, 207, 207);
+    padding-top: 2% ;
+    padding-bottom: 0.8% ; 
     text-align: center;
-    font-size: 2em; 
-    font-family: Verdana;
-    letter-spacing: 0.001em; 
+    font-weight: 100;
+    font-size: 3em; 
+    font-family: Impact;
    
 }
 .main{
     color: rgb(188, 188, 188); 
-    padding-bottom: 1% ; 
+    padding-bottom: 0% ; 
     padding-left: 2% ; 
     padding-right: 2% ; 
     margin: auto; 
@@ -27,25 +29,28 @@ body{
 }
 .qns{
     color: rgb(72, 255, 0); 
-    font-weight: 600;
-    padding-bottom: 0% ; 
+    font-weight: 570;
+    padding-bottom: 0.2% ; 
     padding-left: 0% ; 
     padding-right: 0% ; 
     font-size: 1.2em; 
-    font-family: Arial; 
-    letter-spacing: 0.1em; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    letter-spacing: 0.01em; 
 
 }
 .clr{
     color: rgb(0, 255, 255); 
-    font-weight: 600;
-    padding-bottom: 0% ; 
-    padding-left: 0% ; 
-    padding-right: 0% ; 
+    font-weight: 500;
+    padding-bottom: 10%;
     font-size: 1.1em; 
     font-family: Arial; 
-    letter-spacing: 0.1em; 
-
-
-
+    letter-spacing: 0.01em; 
+}
+.thx{
+    color: rgb(99, 99, 99); 
+    font-weight:400;
+    padding-bottom: 10%;
+    font-size: 1.1em; 
+    font-family: Arial; 
+    letter-spacing: 0.01em; 
 }
