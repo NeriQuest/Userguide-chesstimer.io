@@ -1,1 +1,1 @@
-![https://w7.pngwing.com/pngs/743/303/png-transparent-user-guide-owners-manual-symbol-label-information-ppe-symbols-blue-text-label-thumbnail.png](https://neriquest.github.io/Userguide-chesstimer.io/)
+[![](https://w7.pngwing.com/pngs/743/303/png-transparent-user-guide-owners-manual-symbol-label-information-ppe-symbols-blue-text-label-thumbnail.png)](https://neriquest.github.io/Userguide-chesstimer.io/)
